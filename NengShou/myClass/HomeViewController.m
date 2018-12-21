@@ -33,7 +33,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view from its nib.
     self.title = @"能手";
-    
+    //测试
     //初始化数组
     NSArray *array1 = @[@{@"id":@"0",@"title":@""},
                         @{@"id":@"1",@"title":@""}];
